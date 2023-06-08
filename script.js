@@ -47,12 +47,12 @@ let generateCard = (data) => {
     card.innerHTML = `
             <p class="hp">
                 <span>HP</span>
-                ${hp} // Display the HP stat
+                ${hp} 
             </p>
 
-            <img src="${imgSrc}" alt=""> // Display the Pokemon image
+            <img src="${imgSrc}" alt=""> 
 
-            <h2 class="poke-name">${pokeName}</h2> // Display the Pokemon name
+            <h2 class="poke-name">${pokeName}</h2> 
 
             <div class="types">
                 
