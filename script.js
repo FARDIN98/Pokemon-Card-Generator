@@ -97,3 +97,5 @@ let styleCards = (color) => {
 
 btn.addEventListener("click", getPokeData); // Add event listener to the button
 window.addEventListener("load", getPokeData); // Fetch data when the window loads
+
+// The End
